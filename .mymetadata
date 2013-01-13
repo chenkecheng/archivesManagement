@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="archivesManagement"
+  id="myeclipse.1357654656796"
+  context-root="/archivesManagement"
+  j2ee-spec="5.0"
+  archive="archivesManagement.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
